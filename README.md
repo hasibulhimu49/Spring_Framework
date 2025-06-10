@@ -4,6 +4,30 @@ A comprehensive and practical guide to mastering the Spring ecosystem and becomi
 
 ---
 
+## 📚 Main Topics
+
+1. **Spring Core**  
+2. **Spring Boot**  
+3. **Spring MVC**  
+4. **Spring Database Access**
+   - Spring JDBC  
+   - Spring ORM  
+   - Spring Data JPA  
+5. **Spring Security**  
+6. **Spring AOP**  
+7. **Spring Boot Testing**  
+8. **Spring Boot Actuator & Monitoring**  
+9. **Docker & Deployment**  
+
+10. **Advanced (Optional)**
+    - Spring Cloud  
+    - Spring Batch  
+    - Spring WebFlux  
+
+
+---
+
+
 ## 🎯 Objective
 
 Master the Spring Framework to build **secure, scalable, and maintainable backend systems** using Java and Spring technologies, preparing you for real-world enterprise applications.
